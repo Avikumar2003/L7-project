@@ -22,7 +22,7 @@ This is a Flask application that manages seasonal flavor offerings, ingredients,
 ### Clone the Repository
 
 ```bash
-git clone <GH_REPO_URL>
+git clone https://github.com/Avikumar2003/L7-project.git
 cd chocolate-house
 ```
 
