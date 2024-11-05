@@ -1,0 +1,4 @@
+Flask==3.0.3
+pysqlite3==0.4.6  # SQLite package
+python-dotenv==0.21.0  # For environment variable management
+werkzeug==3.1.2
